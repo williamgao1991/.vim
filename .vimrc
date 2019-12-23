@@ -1,0 +1,11 @@
+set number
+set shifwidth=4
+set softtabstop=4
+set tabstop=4
+set laststatus=2
+set expandtab
+set backspace=indent,eol,start
+set sutoindent
+set encoding=utf-8
+syn on
+filetype on
