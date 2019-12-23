@@ -7,5 +7,6 @@ set expandtab
 set backspace=indent,eol,start
 set autoindent
 set encoding=utf-8
+set viminfo=%,<800,'10,/50,:100,h,f0,n~/.vim/.viminfo 
 syn on
 filetype on
